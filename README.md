@@ -24,10 +24,11 @@ SLoader 是一個幫助遠端控制工具繞過防毒軟體檢測的工具。
 
 ## 使用方式
 
+![image](https://github.com/user-attachments/assets/7f0e8bbd-53cc-40d6-a555-b863eed0eb21)
+
 使用 Cobalt Strike 生成 raw 格式的 shellcode 檔案（shellcode 的位元數取決於加載器模板的位元數）
 
 ![image](https://github.com/user-attachments/assets/e264878a-a7a8-4c51-92c3-eff5415d79d4)
-
 
 通過 encode 對 shellcode 進行加密（加密金鑰需要 16 位元組）
 
@@ -47,6 +48,10 @@ SLoader 是一個幫助遠端控制工具繞過防毒軟體檢測的工具。
 
 
 ## 實際效果
+### ESET
+![image](https://github.com/user-attachments/assets/5b53892f-c543-418f-9239-0bf752ad77b0)
+
+![image](https://github.com/user-attachments/assets/9a30a62d-d041-4b65-a5df-359f951043df)
 
 ### Norton （Norton 會攔截沒有簽名的程式上網，因此需要對程式進行簽名）
 
