@@ -20,7 +20,7 @@ SLoader 是一個幫助遠端控制工具繞過防毒軟體檢測的工具。
 
 編譯環境：生成器、編碼器與加載模板均使用 C++ 開發，通過 Visual Studio 2022 靜態編譯。
 
-編譯方式：通過 Visual Studio 2022 打開解決方案 (*.sln)，選擇 release、x64 進行編譯。或直接下載使用[realse](https://github.com/ED-E92/SLoader/releases/tag/SLoader)。
+編譯方式：通過 Visual Studio 2022 打開解決方案 (*.sln)，選擇 release、x64 進行編譯。或直接下載使用[realse](https://github.com/ED-E92/SLoader/releases/tag/SLoaderv1.1)。
 
 ## 使用方式
 
