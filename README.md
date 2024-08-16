@@ -36,7 +36,6 @@ SLoader 是一個幫助遠端控制工具繞過防毒軟體檢測的工具。
 
 將生成的 bmp 檔案上傳至遠端 WEB 伺服器生成下載連結（訪問 URL 可直接下載檔案）
 
-![image](https://github.com/user-attachments/assets/00ca4abe-d67a-4abc-80e0-fd379bbc2c93)
 
 打開生成器，填寫 bmp 檔案的 URL 與加密金鑰，選擇自訂的加載器模板（DATA 目錄）
 
