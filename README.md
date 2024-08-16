@@ -24,7 +24,7 @@ SLoader 是一個幫助遠端控制工具繞過防毒軟體檢測的工具。
 
 ## 使用方式
 
-![image](https://github.com/user-attachments/assets/7f0e8bbd-53cc-40d6-a555-b863eed0eb21)
+![image](https://github.com/user-attachments/assets/9f35c116-d4ea-4e51-9aae-55b2a0022ca7)
 
 使用 Cobalt Strike 生成 raw 格式的 shellcode 檔案（shellcode 的位元數取決於加載器模板的位元數）
 
